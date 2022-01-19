@@ -8,11 +8,9 @@ Shittu Olumide's Porfolio website deployed using GH Pages
 
 ### Image Preview
 
-[Shittu Olumide](https://i.imgur.com/TVFxMsX.png)
+![Shittu Olumide Website Black](https://i.imgur.com/MMDcnn9.jpg)
 
-[Shittu Olumide Website Black](https://i.imgur.com/MMDcnn9.jpg)
+![Shittu Olumide Website White](https://i.imgur.com/Z2LlaIP.jpg)
 
-[Shittu Olumide Website White](https://i.imgur.com/Z2LlaIP.jpg)
-
-[Shittu Olumide Website portfolio](https://i.imgur.com/TrruiZr.jpg)
+![Shittu Olumide Website portfolio](https://i.imgur.com/TrruiZr.jpg)
 
